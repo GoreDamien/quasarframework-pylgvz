@@ -37,7 +37,7 @@
         color="primary"
         dense
         round
-        label="+"
+        label="mas"
         :disable="count === max"
         @click="count++"
       />
